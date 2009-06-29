@@ -1,0 +1,67 @@
+<?xml version='1.0'?>
+<!DOCTYPE signatures SYSTEM "file://localhost/System/Library/DTDs/BridgeSupport.dtd">
+<signatures version='0.9'>
+<depends_on path='/System/Library/Frameworks/Foundation.framework'/>
+<depends_on path='/System/Library/Frameworks/AppKit.framework'/>
+<depends_on path='/System/Library/Frameworks/Carbon.framework'/>
+<depends_on path='/System/Library/Frameworks/IOKit.framework'/>
+<depends_on path='/System/Library/Frameworks/CoreFoundation.framework'/>
+<constant name='FINISHED_USING_REMOTE_CONTROL_NOTIFICATION' type='@'/>
+<constant name='REQUEST_FOR_REMOTE_CONTROL_NOTIFCATION' type='@'/>
+<constant name='kApplicationIdentifier' type='@'/>
+<constant name='kRemoteControlDeviceName' type='@'/>
+<constant name='kTargetApplicationIdentifier' type='@'/>
+<enum name='EVENT_TO_HOLD_EVENT_OFFSET' value='6'/>
+<enum name='kRemoteButtonLeft' value='64'/>
+<enum name='kRemoteButtonLeft_Hold' value='4096'/>
+<enum name='kRemoteButtonMenu' value='8'/>
+<enum name='kRemoteButtonMenu_Hold' value='512'/>
+<enum name='kRemoteButtonMinus' value='4'/>
+<enum name='kRemoteButtonMinus_Hold' value='256'/>
+<enum name='kRemoteButtonPlay' value='16'/>
+<enum name='kRemoteButtonPlay_Hold' value='1024'/>
+<enum name='kRemoteButtonPlus' value='2'/>
+<enum name='kRemoteButtonPlus_Hold' value='128'/>
+<enum name='kRemoteButtonRight' value='32'/>
+<enum name='kRemoteButtonRight_Hold' value='2048'/>
+<enum name='kRemoteControl_Switched' value='8192'/>
+<class name='HIDRemoteControlDevice'>
+<method class_method='true' selector='isRemoteAvailable'>
+<retval type='B'/>
+</method>
+<method selector='processesBacklog'>
+<retval type='B'/>
+</method>
+<method selector='sendRemoteButtonEvent:pressedDown:'>
+<arg type='B' index='1'/>
+</method>
+<method selector='setProcessesBacklog:'>
+<arg type='B' index='0'/>
+</method>
+</class>
+<class name='NSObject'>
+<method selector='sendRemoteButtonEvent:pressedDown:remoteControl:'>
+<arg type='B' index='1'/>
+</method>
+</class>
+<class name='RemoteControl'>
+<method selector='isListeningToRemote'>
+<retval type='B'/>
+</method>
+<method selector='isOpenInExclusiveMode'>
+<retval type='B'/>
+</method>
+<method selector='sendsEventForButtonIdentifier:'>
+<retval type='B'/>
+</method>
+<method selector='setListeningToRemote:'>
+<arg type='B' index='0'/>
+</method>
+<method selector='setOpenInExclusiveMode:'>
+<arg type='B' index='0'/>
+</method>
+</class>
+<informal_protocol name='RemoteControlDelegate'>
+<method type='v20@0:4i8B12@16' selector='sendRemoteButtonEvent:pressedDown:remoteControl:'/>
+</informal_protocol>
+</signatures>

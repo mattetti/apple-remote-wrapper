@@ -1,0 +1,587 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 2BA9DD0E0FEF78A300F2C2BC /* RemoteControlWrapper */;
+		activeTarget = 2B0554180FF6004400BBA978 /* AppleRemote */;
+		codeSenseManager = 2BA9DD230FEF78A500F2C2BC /* Code sense */;
+		executables = (
+			2BA9DD0E0FEF78A300F2C2BC /* RemoteControlWrapper */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					422,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					382,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 267852988;
+			PBXWorkspaceStateSaveDate = 267852988;
+		};
+		perUserProjectItems = {
+			2B0554370FF6036B00BBA978 /* PBXTextBookmark */ = 2B0554370FF6036B00BBA978 /* PBXTextBookmark */;
+			2B05543E0FF603EC00BBA978 /* PBXTextBookmark */ = 2B05543E0FF603EC00BBA978 /* PBXTextBookmark */;
+			2B05544C0FF6043400BBA978 /* PBXTextBookmark */ = 2B05544C0FF6043400BBA978 /* PBXTextBookmark */;
+			2B0555C30FF604E300BBA978 /* PBXTextBookmark */ = 2B0555C30FF604E300BBA978 /* PBXTextBookmark */;
+			2B0556520FF60F5300BBA978 /* PBXTextBookmark */ = 2B0556520FF60F5300BBA978 /* PBXTextBookmark */;
+			2B0556540FF60F5300BBA978 /* PBXTextBookmark */ = 2B0556540FF60F5300BBA978 /* PBXTextBookmark */;
+			2B57001C0FF70F6200777150 /* PBXTextBookmark */ = 2B57001C0FF70F6200777150 /* PBXTextBookmark */;
+			2B57001F0FF70F6200777150 /* PBXTextBookmark */ = 2B57001F0FF70F6200777150 /* PBXTextBookmark */;
+			2B57FFC70FF6238000777150 /* PBXTextBookmark */ = 2B57FFC70FF6238000777150 /* PBXTextBookmark */;
+			2B57FFC80FF6238000777150 /* PBXTextBookmark */ = 2B57FFC80FF6238000777150 /* PBXTextBookmark */;
+			2B57FFC90FF6238000777150 /* PBXTextBookmark */ = 2B57FFC90FF6238000777150 /* PBXTextBookmark */;
+			2B57FFD10FF6238000777150 /* PBXTextBookmark */ = 2B57FFD10FF6238000777150 /* PBXTextBookmark */;
+			2B57FFD30FF6238000777150 /* PBXTextBookmark */ = 2B57FFD30FF6238000777150 /* PBXTextBookmark */;
+			2B57FFD40FF6238000777150 /* PBXTextBookmark */ = 2B57FFD40FF6238000777150 /* PBXTextBookmark */;
+			2B57FFD50FF6238000777150 /* PBXTextBookmark */ = 2B57FFD50FF6238000777150 /* PBXTextBookmark */;
+			2B57FFDF0FF623F000777150 /* PBXTextBookmark */ = 2B57FFDF0FF623F000777150 /* PBXTextBookmark */;
+			2B57FFE10FF623F000777150 /* PBXTextBookmark */ = 2B57FFE10FF623F000777150 /* PBXTextBookmark */;
+			2B57FFE20FF623F000777150 /* PBXTextBookmark */ = 2B57FFE20FF623F000777150 /* PBXTextBookmark */;
+			2B57FFE50FF623F000777150 /* PBXTextBookmark */ = 2B57FFE50FF623F000777150 /* PBXTextBookmark */;
+			2B57FFE70FF623F000777150 /* PBXTextBookmark */ = 2B57FFE70FF623F000777150 /* PBXTextBookmark */;
+			2BC42ACE0FF72B4100DF30BC /* PBXTextBookmark */ = 2BC42ACE0FF72B4100DF30BC /* PBXTextBookmark */;
+			2BC42ACF0FF72B4100DF30BC /* PBXTextBookmark */ = 2BC42ACF0FF72B4100DF30BC /* PBXTextBookmark */;
+			2BC42AD00FF72B4100DF30BC /* PBXTextBookmark */ = 2BC42AD00FF72B4100DF30BC /* PBXTextBookmark */;
+			2BC42AD10FF72B4100DF30BC /* PBXTextBookmark */ = 2BC42AD10FF72B4100DF30BC /* PBXTextBookmark */;
+			2BC42AD20FF72B4100DF30BC /* PBXTextBookmark */ = 2BC42AD20FF72B4100DF30BC /* PBXTextBookmark */;
+			2BC42AD30FF72B4100DF30BC /* PBXTextBookmark */ = 2BC42AD30FF72B4100DF30BC /* PBXTextBookmark */;
+			2BC42AD40FF72B4100DF30BC /* PBXTextBookmark */ = 2BC42AD40FF72B4100DF30BC /* PBXTextBookmark */;
+			2BC42ADE0FF76A3B00DF30BC /* PBXTextBookmark */ = 2BC42ADE0FF76A3B00DF30BC /* PBXTextBookmark */;
+			2BC42ADF0FF76A3B00DF30BC /* PBXTextBookmark */ = 2BC42ADF0FF76A3B00DF30BC /* PBXTextBookmark */;
+			2BC42AE00FF76A3B00DF30BC /* PBXTextBookmark */ = 2BC42AE00FF76A3B00DF30BC /* PBXTextBookmark */;
+			2BC42AE10FF76A3B00DF30BC /* PBXTextBookmark */ = 2BC42AE10FF76A3B00DF30BC /* PBXTextBookmark */;
+			2BC42AE20FF76A3B00DF30BC /* PBXTextBookmark */ = 2BC42AE20FF76A3B00DF30BC /* PBXTextBookmark */;
+			2BC42AE30FF76A3B00DF30BC /* PBXTextBookmark */ = 2BC42AE30FF76A3B00DF30BC /* PBXTextBookmark */;
+			2BC42AE40FF76A3B00DF30BC /* PBXTextBookmark */ = 2BC42AE40FF76A3B00DF30BC /* PBXTextBookmark */;
+			2BC42AE50FF76A3B00DF30BC /* PBXTextBookmark */ = 2BC42AE50FF76A3B00DF30BC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2BA9DD220FEF78A500F2C2BC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {600, 285}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 266}";
+		};
+	};
+	2B0554180FF6004400BBA978 /* AppleRemote */ = {
+		activeExec = 0;
+	};
+	2B0554370FF6036B00BBA978 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BF9B75609C243FD00EFA68D /* AppleRemote.h */;
+		name = "AppleRemote.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 848;
+		vrLoc = 0;
+	};
+	2B05543E0FF603EC00BBA978 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B92775E0B78CABC0058AA16 /* HIDRemoteControlDevice.m */;
+		name = "HIDRemoteControlDevice.m: 414";
+		rLen = 36;
+		rLoc = 13261;
+		rType = 0;
+		vrLen = 685;
+		vrLoc = 13007;
+	};
+	2B05544C0FF6043400BBA978 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B92749F0B78B3B20058AA16 /* RemoteControl.h */;
+		name = "RemoteControl.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 841;
+		vrLoc = 0;
+	};
+	2B0555C30FF604E300BBA978 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B9274A00B78B3B20058AA16 /* RemoteControl.m */;
+		name = "RemoteControl.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 841;
+		vrLoc = 0;
+	};
+	2B0556520FF60F5300BBA978 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BAA56550B81A1210068DF18 /* RemoteControlContainer.h */;
+		name = "RemoteControlContainer.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 341;
+		vrLoc = 1319;
+	};
+	2B0556540FF60F5300BBA978 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BF9B75709C243FD00EFA68D /* AppleRemote.m */;
+		name = "AppleRemote.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 730;
+		vrLoc = 4517;
+	};
+	2B57001C0FF70F6200777150 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BF9B9D709C9B00900EFA68D /* MainController.m */;
+		name = "MainController.m: 37";
+		rLen = 208;
+		rLoc = 1187;
+		rType = 0;
+		vrLen = 915;
+		vrLoc = 1410;
+	};
+	2B57001F0FF70F6200777150 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B92775D0B78CABC0058AA16 /* HIDRemoteControlDevice.h */;
+		name = "HIDRemoteControlDevice.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 671;
+		vrLoc = 1920;
+	};
+	2B57FFC70FF6238000777150 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B92749A0B78B3750058AA16 /* MultiClickRemoteBehavior.h */;
+		name = "MultiClickRemoteBehavior.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 596;
+		vrLoc = 3179;
+	};
+	2B57FFC80FF6238000777150 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BAA56550B81A1210068DF18 /* RemoteControlContainer.h */;
+		name = "RemoteControlContainer.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 499;
+		vrLoc = 1161;
+	};
+	2B57FFC90FF6238000777150 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BAA56560B81A1210068DF18 /* RemoteControlContainer.m */;
+		name = "RemoteControlContainer.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 407;
+		vrLoc = 2862;
+	};
+	2B57FFD10FF6238000777150 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B92749A0B78B3750058AA16 /* MultiClickRemoteBehavior.h */;
+		name = "MultiClickRemoteBehavior.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 596;
+		vrLoc = 3179;
+	};
+	2B57FFD30FF6238000777150 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BAA56560B81A1210068DF18 /* RemoteControlContainer.m */;
+		name = "RemoteControlContainer.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 407;
+		vrLoc = 2862;
+	};
+	2B57FFD40FF6238000777150 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BF9B9D609C9B00900EFA68D /* MainController.h */;
+		name = "MainController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 317;
+		vrLoc = 151;
+	};
+	2B57FFD50FF6238000777150 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BF9B9D709C9B00900EFA68D /* MainController.m */;
+		name = "MainController.m: 38";
+		rLen = 0;
+		rLoc = 1187;
+		rType = 0;
+		vrLen = 840;
+		vrLoc = 344;
+	};
+	2B57FFDF0FF623F000777150 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B8D4DE70C55D676008A1C8A /* readme.txt */;
+		name = "readme.txt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 235;
+		vrLoc = 0;
+	};
+	2B57FFE10FF623F000777150 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 266;
+		vrLoc = 0;
+	};
+	2B57FFE20FF623F000777150 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BF9B9D609C9B00900EFA68D /* MainController.h */;
+		name = "MainController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 317;
+		vrLoc = 151;
+	};
+	2B57FFE50FF623F000777150 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B8D4DE70C55D676008A1C8A /* readme.txt */;
+		name = "readme.txt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 235;
+		vrLoc = 0;
+	};
+	2B57FFE70FF623F000777150 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 266;
+		vrLoc = 0;
+	};
+	2BA9DD0E0FEF78A300F2C2BC /* RemoteControlWrapper */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = RemoteControlWrapper;
+		sourceDirectories = (
+		);
+	};
+	2BA9DD220FEF78A500F2C2BC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	2BA9DD230FEF78A500F2C2BC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2BC42ACE0FF72B4100DF30BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BF9B75709C243FD00EFA68D /* AppleRemote.m */;
+		name = "AppleRemote.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1076;
+		vrLoc = 1727;
+	};
+	2BC42ACF0FF72B4100DF30BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B9274A00B78B3B20058AA16 /* RemoteControl.m */;
+		name = "RemoteControl.m: 51";
+		rLen = 0;
+		rLoc = 2479;
+		rType = 0;
+		vrLen = 353;
+		vrLoc = 2239;
+	};
+	2BC42AD00FF72B4100DF30BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B92749F0B78B3B20058AA16 /* RemoteControl.h */;
+		name = "RemoteControl.h: 100";
+		rLen = 23;
+		rLoc = 3662;
+		rType = 0;
+		vrLen = 663;
+		vrLoc = 2960;
+	};
+	2BC42AD10FF72B4100DF30BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B9274A00B78B3B20058AA16 /* RemoteControl.m */;
+		name = "RemoteControl.m: 52";
+		rLen = 0;
+		rLoc = 2542;
+		rType = 0;
+		vrLen = 1044;
+		vrLoc = 922;
+	};
+	2BC42AD20FF72B4100DF30BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BF9B75709C243FD00EFA68D /* AppleRemote.m */;
+		name = "AppleRemote.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1076;
+		vrLoc = 1727;
+	};
+	2BC42AD30FF72B4100DF30BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B9274A00B78B3B20058AA16 /* RemoteControl.m */;
+		name = "RemoteControl.m: 51";
+		rLen = 0;
+		rLoc = 2479;
+		rType = 0;
+		vrLen = 353;
+		vrLoc = 2239;
+	};
+	2BC42AD40FF72B4100DF30BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B92749F0B78B3B20058AA16 /* RemoteControl.h */;
+		name = "RemoteControl.h: 100";
+		rLen = 23;
+		rLoc = 3662;
+		rType = 0;
+		vrLen = 663;
+		vrLoc = 2960;
+	};
+	2BC42ADE0FF76A3B00DF30BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BF9B75609C243FD00EFA68D /* AppleRemote.h */;
+		name = "AppleRemote.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 933;
+		vrLoc = 0;
+	};
+	2BC42ADF0FF76A3B00DF30BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B92775D0B78CABC0058AA16 /* HIDRemoteControlDevice.h */;
+		name = "HIDRemoteControlDevice.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 683;
+		vrLoc = 1770;
+	};
+	2BC42AE00FF76A3B00DF30BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B92775E0B78CABC0058AA16 /* HIDRemoteControlDevice.m */;
+		name = "HIDRemoteControlDevice.m: 414";
+		rLen = 36;
+		rLoc = 13261;
+		rType = 0;
+		vrLen = 564;
+		vrLoc = 11175;
+	};
+	2BC42AE10FF76A3B00DF30BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BF9B75609C243FD00EFA68D /* AppleRemote.h */;
+		name = "AppleRemote.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 933;
+		vrLoc = 0;
+	};
+	2BC42AE20FF76A3B00DF30BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B92775D0B78CABC0058AA16 /* HIDRemoteControlDevice.h */;
+		name = "HIDRemoteControlDevice.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 699;
+		vrLoc = 1892;
+	};
+	2BC42AE30FF76A3B00DF30BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B92775E0B78CABC0058AA16 /* HIDRemoteControlDevice.m */;
+		name = "HIDRemoteControlDevice.m: 414";
+		rLen = 36;
+		rLoc = 13261;
+		rType = 0;
+		vrLen = 564;
+		vrLoc = 11175;
+	};
+	2BC42AE40FF76A3B00DF30BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B92775D0B78CABC0058AA16 /* HIDRemoteControlDevice.h */;
+		name = "HIDRemoteControlDevice.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 683;
+		vrLoc = 1770;
+	};
+	2BC42AE50FF76A3B00DF30BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B92775E0B78CABC0058AA16 /* HIDRemoteControlDevice.m */;
+		name = "HIDRemoteControlDevice.m: 414";
+		rLen = 36;
+		rLoc = 13261;
+		rType = 0;
+		vrLen = 454;
+		vrLoc = 16405;
+	};
+	5B8D4DE70C55D676008A1C8A /* readme.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {747, 285}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 235}";
+		};
+	};
+	5B92749A0B78B3750058AA16 /* MultiClickRemoteBehavior.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {957, 1456}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3179, 596}";
+		};
+	};
+	5B92749F0B78B3B20058AA16 /* RemoteControl.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 1712}}";
+			sepNavSelRange = "{3662, 23}";
+			sepNavVisRange = "{2960, 663}";
+			sepNavWindowFrame = "{{57, 143}, {894, 630}}";
+		};
+	};
+	5B9274A00B78B3B20058AA16 /* RemoteControl.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 1712}}";
+			sepNavSelRange = "{2479, 0}";
+			sepNavVisRange = "{2239, 353}";
+			sepNavWindowFrame = "{{80, 122}, {894, 630}}";
+		};
+	};
+	5B92775D0B78CABC0058AA16 /* HIDRemoteControlDevice.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {719, 1040}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1770, 683}";
+		};
+	};
+	5B92775E0B78CABC0058AA16 /* HIDRemoteControlDevice.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 8240}}";
+			sepNavSelRange = "{13261, 36}";
+			sepNavVisRange = "{16405, 454}";
+		};
+	};
+	5BAA56550B81A1210068DF18 /* RemoteControlContainer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {600, 624}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1161, 499}";
+		};
+	};
+	5BAA56560B81A1210068DF18 /* RemoteControlContainer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {894, 1712}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2862, 407}";
+		};
+	};
+	5BF9B75609C243FD00EFA68D /* AppleRemote.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {600, 544}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 933}";
+		};
+	};
+	5BF9B75709C243FD00EFA68D /* AppleRemote.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1258, 1504}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1727, 1076}";
+		};
+	};
+	5BF9B9D609C9B00900EFA68D /* MainController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {600, 400}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{151, 317}";
+		};
+	};
+	5BF9B9D709C9B00900EFA68D /* MainController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 3264}}";
+			sepNavSelRange = "{1187, 208}";
+			sepNavVisRange = "{1410, 915}";
+		};
+	};
+	8D1107260486CEB800E47090 /* RemoteControlWrapper */ = {
+		activeExec = 0;
+		executables = (
+			2BA9DD0E0FEF78A300F2C2BC /* RemoteControlWrapper */,
+		);
+	};
+}
